@@ -1,7 +1,6 @@
 # Descargar-Videos-de-Youtube
 Descargar videos de Youtube usando python
-# CONTADOR-DE-PARPADEOS
-Contador de parpadeos con inteligencia artificial en tiempo real. Creado con Python.
+
 
 * `python` 3.12.2 or later
 Commands install library
